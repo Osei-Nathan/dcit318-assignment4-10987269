@@ -1,0 +1,10 @@
+C:\Users\Maxwell Odoom Anane\source\repos\dcit318-assignment4-10987269\MyDrawingApp\obj\Debug\MyDrawingApp.csproj.AssemblyReference.cache
+C:\Users\Maxwell Odoom Anane\source\repos\dcit318-assignment4-10987269\MyDrawingApp\obj\Debug\MyDrawingApp.Form1.resources
+C:\Users\Maxwell Odoom Anane\source\repos\dcit318-assignment4-10987269\MyDrawingApp\obj\Debug\MyDrawingApp.Properties.Resources.resources
+C:\Users\Maxwell Odoom Anane\source\repos\dcit318-assignment4-10987269\MyDrawingApp\obj\Debug\MyDrawingApp.csproj.GenerateResource.cache
+C:\Users\Maxwell Odoom Anane\source\repos\dcit318-assignment4-10987269\MyDrawingApp\obj\Debug\MyDrawingApp.csproj.CoreCompileInputs.cache
+C:\Users\Maxwell Odoom Anane\source\repos\dcit318-assignment4-10987269\MyDrawingApp\bin\Debug\MyDrawingApp.exe.config
+C:\Users\Maxwell Odoom Anane\source\repos\dcit318-assignment4-10987269\MyDrawingApp\bin\Debug\MyDrawingApp.exe
+C:\Users\Maxwell Odoom Anane\source\repos\dcit318-assignment4-10987269\MyDrawingApp\bin\Debug\MyDrawingApp.pdb
+C:\Users\Maxwell Odoom Anane\source\repos\dcit318-assignment4-10987269\MyDrawingApp\obj\Debug\MyDrawingApp.exe
+C:\Users\Maxwell Odoom Anane\source\repos\dcit318-assignment4-10987269\MyDrawingApp\obj\Debug\MyDrawingApp.pdb
