@@ -1,0 +1,10 @@
+C:\Users\Maxwell Odoom Anane\source\repos\MyLoginApp\obj\Debug\MyLoginApp.csproj.AssemblyReference.cache
+C:\Users\Maxwell Odoom Anane\source\repos\MyLoginApp\obj\Debug\MyLoginApp.Form1.resources
+C:\Users\Maxwell Odoom Anane\source\repos\MyLoginApp\obj\Debug\MyLoginApp.Properties.Resources.resources
+C:\Users\Maxwell Odoom Anane\source\repos\MyLoginApp\obj\Debug\MyLoginApp.csproj.GenerateResource.cache
+C:\Users\Maxwell Odoom Anane\source\repos\MyLoginApp\obj\Debug\MyLoginApp.csproj.CoreCompileInputs.cache
+C:\Users\Maxwell Odoom Anane\source\repos\MyLoginApp\bin\Debug\MyLoginApp.exe.config
+C:\Users\Maxwell Odoom Anane\source\repos\MyLoginApp\bin\Debug\MyLoginApp.exe
+C:\Users\Maxwell Odoom Anane\source\repos\MyLoginApp\bin\Debug\MyLoginApp.pdb
+C:\Users\Maxwell Odoom Anane\source\repos\MyLoginApp\obj\Debug\MyLoginApp.exe
+C:\Users\Maxwell Odoom Anane\source\repos\MyLoginApp\obj\Debug\MyLoginApp.pdb
