@@ -1,0 +1,10 @@
+C:\Users\Maxwell Odoom Anane\source\repos\dcit318-assignment4-10987269\MyAddressBookApp\obj\Debug\MyAddressBookApp.csproj.AssemblyReference.cache
+C:\Users\Maxwell Odoom Anane\source\repos\dcit318-assignment4-10987269\MyAddressBookApp\obj\Debug\MyAddressBookApp.Form1.resources
+C:\Users\Maxwell Odoom Anane\source\repos\dcit318-assignment4-10987269\MyAddressBookApp\obj\Debug\MyAddressBookApp.Properties.Resources.resources
+C:\Users\Maxwell Odoom Anane\source\repos\dcit318-assignment4-10987269\MyAddressBookApp\obj\Debug\MyAddressBookApp.csproj.GenerateResource.cache
+C:\Users\Maxwell Odoom Anane\source\repos\dcit318-assignment4-10987269\MyAddressBookApp\obj\Debug\MyAddressBookApp.csproj.CoreCompileInputs.cache
+C:\Users\Maxwell Odoom Anane\source\repos\dcit318-assignment4-10987269\MyAddressBookApp\bin\Debug\MyAddressBookApp.exe.config
+C:\Users\Maxwell Odoom Anane\source\repos\dcit318-assignment4-10987269\MyAddressBookApp\bin\Debug\MyAddressBookApp.exe
+C:\Users\Maxwell Odoom Anane\source\repos\dcit318-assignment4-10987269\MyAddressBookApp\bin\Debug\MyAddressBookApp.pdb
+C:\Users\Maxwell Odoom Anane\source\repos\dcit318-assignment4-10987269\MyAddressBookApp\obj\Debug\MyAddressBookApp.exe
+C:\Users\Maxwell Odoom Anane\source\repos\dcit318-assignment4-10987269\MyAddressBookApp\obj\Debug\MyAddressBookApp.pdb
